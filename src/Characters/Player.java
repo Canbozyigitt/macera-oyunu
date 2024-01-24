@@ -24,7 +24,7 @@ public class Player {
     }
 
     public void selectChar(){
-        System.out.println("seçmek istediğiniz karakteri giriniz: ");
+        System.out.println("Seçmek istediğiniz karakteri giriniz: ");
         System.out.println("1- Samuray");
         System.out.println("2- Okçu");
         System.out.println("3- Şovalye ");
